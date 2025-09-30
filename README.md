@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawwafnaufal&label=Profile%20views&color=0e75b6&style=flat" alt="nawwafnaufal" /> </p>
 
-- 🌱 I'm currently learning **Docker**
-- 📫 How to reach me **nawwafnaufal03@gmail.com**
-- ⚡ Fun fact **N___**
+* 🌱 I'm currently learning **Docker**
+* 📫 How to reach me **[nawwafnaufal03@gmail.com](mailto:nawwafnaufal03@gmail.com)**
+* ⚡ Fun fact **N___**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -34,4 +34,9 @@
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/> </a>
 <a href="https://swagger.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+
+<!-- Redis & Socket.IO added -->
+
+<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a> <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="socketio" width="40" height="40" style="background:transparent;"/> </a>
+
 </p>
