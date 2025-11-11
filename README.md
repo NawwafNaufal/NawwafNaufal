@@ -9,7 +9,7 @@
 
 * 🌱 I'm currently learning **Jenkins**
 * 📫 How to reach me **[nawwafnaufal03@gmail.com](mailto:nawwafnaufal03@gmail.com)**
-* ⚡ Fun fact **N___**
+* ⚡ Fun fact **.....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
