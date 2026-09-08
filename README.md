@@ -27,5 +27,6 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="40" height="40" style="filter: invert(50%) sepia(80%) saturate(600%) hue-rotate(0deg);"/></td>
   </tr>
 </table>
